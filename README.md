@@ -3,3 +3,4 @@
 1. [Expanding Cards](/expanding-cards) | [GHPages](https://andmatrosov.github.io/50projectsin50days/expanding-cards)
 2. [Progress Steps](/progress-steps) | [GHPages](https://andmatrosov.github.io/50projectsin50days/progress-steps)
 3. [Rotating Navigation](/rotating-navigation) | [GHPages](https://andmatrosov.github.io/50projectsin50days/rotating-navigation)
+4. [Hidden Search Widget](/hidden-search-widget) | [GHPages](https://andmatrosov.github.io/50projectsin50days/hidden-search-widget)
