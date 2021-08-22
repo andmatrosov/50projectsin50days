@@ -23,6 +23,7 @@ body {
 .search .input {
 	background-color: #fff;
 	border: 0;
+	border-radius: 0;
 	font-size: 18px;
 	padding: 15px;
 	height: 50px;
@@ -31,6 +32,9 @@ body {
 }
 
 .btn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	background-color: #fff;
 	border: 0;
 	cursor: pointer;
