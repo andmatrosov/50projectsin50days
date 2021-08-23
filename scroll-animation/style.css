@@ -6,17 +6,26 @@
 
 body {
 	font-family: "Roboto", sans-serif;
+	position: relative;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
 	margin: 0;
 	background-color: #efedd6;
-	overflow-x: hidden;
 }
 
 h1 {
 	margin: 10px;
+}
+
+.boxes-wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	overflow-x: hidden;
 }
 
 .box {
