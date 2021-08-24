@@ -6,3 +6,5 @@
 4. [Hidden Search Widget](/hidden-search-widget) | [GHPages](https://andmatrosov.github.io/50projectsin50days/hidden-search-widget)
 5. [Blurry Loading](/blurry-loading) | [GHPages](https://andmatrosov.github.io/50projectsin50days/blurry-loading)
 6. [Scroll Animation](/scroll-animation) | [GHPages](https://andmatrosov.github.io/50projectsin50days/scroll-animation)
+6. [Split Landing Page](/split-landing-page) | [GHPages](https://andmatrosov.github.io/50projectsin50days/split-landing-page)
+
