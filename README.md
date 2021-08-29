@@ -8,3 +8,4 @@
 6. [Scroll Animation](/scroll-animation) | [GHPages](https://andmatrosov.github.io/50projectsin50days/scroll-animation)
 7. [Split Landing Page](/split-landing-page) | [GHPages](https://andmatrosov.github.io/50projectsin50days/split-landing-page)
 8. [Form Wave Animation](/form-wave-animation) | [GHPages](https://andmatrosov.github.io/50projectsin50days/form-wave-animation)
+9. [Sound Board](/sound-board) | [GHPages](https://andmatrosov.github.io/50projectsin50days/sound-board)
