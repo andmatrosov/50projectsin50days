@@ -10,6 +10,5 @@
 8. [Form Wave Animation](/form-wave-animation) | [GHPages](https://andmatrosov.github.io/50projectsin50days/form-wave-animation)
 9. [Sound Board](/sound-board) | [GHPages](https://andmatrosov.github.io/50projectsin50days/sound-board)
 10. [Dad Jokes](/dad-jokes) | [GHPages](https://andmatrosov.github.io/50projectsin50days/dad-jokes)
-11. [Event KeyCodes](/event-keycodes
-) | [GHPages](https://andmatrosov.github.io/50projectsin50days/event-keycodes
-)
+11. [Event KeyCodes](/event-keycodes) | [GHPages](https://andmatrosov.github.io/50projectsin50days/event-keycodes)
+11. [FAQ Collapse](/faq-collapse) | [GHPages](https://andmatrosov.github.io/50projectsin50days/faq-collapse)
