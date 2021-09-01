@@ -11,4 +11,6 @@
 9. [Sound Board](/sound-board) | [GHPages](https://andmatrosov.github.io/50projectsin50days/sound-board)
 10. [Dad Jokes](/dad-jokes) | [GHPages](https://andmatrosov.github.io/50projectsin50days/dad-jokes)
 11. [Event KeyCodes](/event-keycodes) | [GHPages](https://andmatrosov.github.io/50projectsin50days/event-keycodes)
-11. [FAQ Collapse](/faq-collapse) | [GHPages](https://andmatrosov.github.io/50projectsin50days/faq-collapse)
+12. [FAQ Collapse](/faq-collapse) | [GHPages](https://andmatrosov.github.io/50projectsin50days/faq-collapse)
+13. [Random Choice Picker](/random-choice-picker) | [GHPages](https://andmatrosov.github.io/50projectsin50days/random-choice-picker)
+14. [Animated Navigation](/animated-navigation) | [GHPages](https://andmatrosov.github.io/50projectsin50days/animated-navigation)
