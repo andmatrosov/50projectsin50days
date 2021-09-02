@@ -14,3 +14,5 @@
 12. [FAQ Collapse](/faq-collapse) | [GHPages](https://andmatrosov.github.io/50projectsin50days/faq-collapse)
 13. [Random Choice Picker](/random-choice-picker) | [GHPages](https://andmatrosov.github.io/50projectsin50days/random-choice-picker)
 14. [Animated Navigation](/animated-navigation) | [GHPages](https://andmatrosov.github.io/50projectsin50days/animated-navigation)
+15. [Incrementing Counter](/incrementing-counter) | [GHPages](https://andmatrosov.github.io/50projectsin50days/incrementing-counter)
+16. [Drink Water](/drink-water) | [GHPages](https://andmatrosov.github.io/50projectsin50days/drink-water)
